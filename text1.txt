@@ -1,0 +1,7 @@
+hola mundo
+
+
+git init ==> creamos un repositorio
+git status ==> vemos info del repo.
+code ==> abre vsc
+git add ==> agrega un archivo
